@@ -19,6 +19,12 @@ Instead of acting as a traditional hospital management system, Patient 360 intro
 The platform demonstrates how multiple AI models can collaborate together inside a real healthcare workflow.
 
 ---
+<img width="1893" height="898" alt="Screenshot 2026-06-19 123214" src="https://github.com/user-attachments/assets/1af5a7e9-ae3e-4a16-8547-443970bd2f6a" />
+<img width="1888" height="900" alt="Screenshot 2026-06-24 165110" src="https://github.com/user-attachments/assets/4ba7f7d4-2e3c-48b3-8f3f-07e922b951a1" />
+<img width="1880" height="897" alt="Screenshot 2026-07-06 115608" src="https://github.com/user-attachments/assets/728d8bd6-f952-45b1-8695-e27eb6fbb512" />
+<img width="1541" height="907" alt="Screenshot 2026-07-06 143159" src="https://github.com/user-attachments/assets/11311bd4-ee12-42c9-b5c0-480c14e31230" />
+<img width="1895" height="897" alt="Screenshot 2026-07-06 143958" src="https://github.com/user-attachments/assets/97c84f43-1d2d-4a95-8c9f-d3eec14d730d" />
+<img width="1895" height="897" alt="Screenshot 2026-07-08 101043" src="https://github.com/user-attachments/assets/57fcc490-72f9-46bc-b7eb-98a434a2d818" />
 
 # 🚀 Key Features
 
