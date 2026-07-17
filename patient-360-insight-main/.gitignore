@@ -1,0 +1,80 @@
+# =========================
+# Node / React
+# =========================
+node_modules/
+dist/
+dist-ssr/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+venv_clean/
+
+# =========================
+# Environment
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# IDE
+# =========================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.swp
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Uploaded Reports
+# =========================
+patient-360-api/uploads/
+patient-360-insight/pages/BillingPage.tsx
+# =========================
+# Test Scripts
+# =========================
+patient-360-api/test_*.py
+
+# =========================
+# Local Database Config
+# =========================
+patient-360-api/database.py
+
+# =========================
+# Local AI Models (VERY LARGE)
+# =========================
+patient-360-api/local_vlm_model/
+patient-360-api/local_reasoning_model/
+patient-360-api/local_ner_model/
+
+# =========================
+# Optional
+# =========================
+*.sqlite3
+
+# Sample reports
+patient-360-api/*.jpg
+patient-360-api/*.jpeg
+patient-360-api/*.png
+patient-360-api/*.pdf
+uploads/
